@@ -345,3 +345,8 @@ footer .legal{display:block;margin-top:26px;padding-top:20px;border-top:1px soli
 /* cards on soft sections need their own surface, and inline body links should read as links */
 .sec.soft .sign{background:#fff;box-shadow:0 10px 30px rgba(30,35,44,.06)}
 .p-body a{color:var(--coral-d);font-weight:600;text-decoration:underline}
+
+/* footer social links */
+.social{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.social a{display:inline-flex;align-items:center;margin:0;padding:6px 13px;border:1px solid var(--line);border-radius:100px;font-weight:600;font-size:13px;color:var(--ink)}
+.social a:hover{border-color:var(--coral);color:var(--coral-d)}
