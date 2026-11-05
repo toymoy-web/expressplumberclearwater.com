@@ -355,3 +355,6 @@ footer .legal{display:block;margin-top:26px;padding-top:20px;border-top:1px soli
 .hb-tarpon-springs-hero{background-image:linear-gradient(90deg,rgba(24,29,38,.90) 0%,rgba(24,29,38,.76) 55%,rgba(24,29,38,.58) 100%),url(/images/tarpon-springs-hero.webp)}
 .hb-sump-pump-hero{background-image:linear-gradient(90deg,rgba(24,29,38,.90) 0%,rgba(24,29,38,.76) 55%,rgba(24,29,38,.58) 100%),url(/images/sump-pump-hero.webp)}
 @media(max-width:700px){.hb-oldsmar-hero{background-image:linear-gradient(180deg,rgba(24,29,38,.88),rgba(24,29,38,.78)),url(/images/oldsmar-hero.webp)}.hb-seminole-hero{background-image:linear-gradient(180deg,rgba(24,29,38,.88),rgba(24,29,38,.78)),url(/images/seminole-hero.webp)}.hb-tarpon-springs-hero{background-image:linear-gradient(180deg,rgba(24,29,38,.88),rgba(24,29,38,.78)),url(/images/tarpon-springs-hero.webp)}.hb-sump-pump-hero{background-image:linear-gradient(180deg,rgba(24,29,38,.88),rgba(24,29,38,.78)),url(/images/sump-pump-hero.webp)}}
+
+.srcnote{font-size:13px;color:var(--gray)}
+.srcnote a{text-decoration:underline}
